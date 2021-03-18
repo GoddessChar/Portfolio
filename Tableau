@@ -1,0 +1,18 @@
+Project: https://public.tableau.com/profile/charlay#!/vizhome/ABestsellers/OverviewofCharts?publish=yes
+
+Dataset: https://www.kaggle.com/sootersaalu/amazon-top-50-bestselling-books-2009-2019
+
+I used the Amazon Bestsellers dataset to learn and hone my Tableau skills. Below is a list of the steps I used to created the project.
+
+Step by Step Instructions for Tableau Project
+1.	Open the file using the text option (since the file is .csv).
+2.	Go over the data to be sure that there are no missing values, the formatting is okay.
+  a.	Select data interpreter to clean the data then review the results to be sure that they data was cleaned correctly.
+3.	Select the worksheet with the data in it and rename the worksheet to a more appropriate name.
+4.	Created a table that shows the number of years a book was on the Amazon Bestsellers list. Added name to the row column and added year to the marks section and changed the measure to count.
+5.	Create a visual that will show the number of fiction v non fiction books on the amazon Bestsellers list. 
+  a.	Created a calculated field to determine the count of fiction and non fiction books
+6.	Created a scatterplot to see if there is a correlation between the number of reviews and ratings.
+7.	Lasty, I created a dashboard of all charts for an easy overview of the data.
+  a.	Formatted the charts for a more interesting presentation.
+8.	Uploaded the project to Tableau Public for viewing.
