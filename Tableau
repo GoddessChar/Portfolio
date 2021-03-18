@@ -1,6 +1,6 @@
-Project: [https://public.tableau.com/profile/charlay#!/vizhome/ABestsellers/OverviewofCharts?publish=yes]
+Project: <https://public.tableau.com/profile/charlay#!/vizhome/ABestsellers/OverviewofCharts?publish=yes>
 
-Dataset: [https://www.kaggle.com/sootersaalu/amazon-top-50-bestselling-books-2009-2019]
+Dataset: <https://www.kaggle.com/sootersaalu/amazon-top-50-bestselling-books-2009-2019>
 
 I used the Amazon Bestsellers dataset to learn and hone my Tableau skills. Below is a list of the steps I used to created the project.
 
