@@ -1,10 +1,12 @@
-<a href="https://public.tableau.com/profile/charlay#!/vizhome/ABestsellers/OverviewofCharts" target="_blank">Project</a>
+Project: https://public.tableau.com/profile/charlay#!/vizhomeac/ABestsellers/OverviewofCharts
 
-<a href="https://www.kaggle.com/sootersaalu/amazon-top-50-bestselling-books-2009-2019" target=_blank">Dataset</a>
+Data: https://www.kaggle.com/sootersaalu/amazon-top-50-bestselling-books-2009-2019
+
 
 I used the Amazon Bestsellers dataset to learn and hone my Tableau skills. Below is a list of the steps I used to created the project.
 
 Step by Step Instructions for Tableau Project
+
 1.	Open the file using the text option (since the file is .csv).
 2.	Go over the data to be sure that there are no missing values, the formatting is okay.
   a.	Select data interpreter to clean the data then review the results to be sure that they data was cleaned correctly.
